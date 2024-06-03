@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kilisei
-- 👀 I’m interested in web and gamdevelopment
+- 👀 I’m interested in web and gamedevelopment
 - 🌱 I’m currently learning nuxt
 
 <!---
